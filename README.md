@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @TheRocker7421
 - 🔭 I’m currently working on Super Octocat
-- 🌱 I’m currently learning about Bitcoin
+- 🌱 I’m currently learning about Bitcoin and other cryptocurrencies
