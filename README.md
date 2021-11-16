@@ -1,4 +1,3 @@
 - 👋 Hi, I'm @TheRocker7421
 - 🔭 I’m currently working on Super Octocat
-- 🌱 I’m currently learning about Bitcoin and other cryptocurrencies
-- 💲 I am conducting a Tallycoin fundraiser for my sister to get an iPod please donate [here](https://tallyco.in/s/74vjue/). 
+- 🌱 I’m currently learning about Bitcoin and other cryptocurrencies. 
